@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.figura"},{"l":"com.mycompany.figura.clases"}];updateSearchResults();
